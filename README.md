@@ -68,6 +68,10 @@ More projects coming as I progress through backend development.
   </a>
 </p>
 
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
