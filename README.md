@@ -59,11 +59,6 @@ More projects coming as I progress through backend development.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HarshRaj021&theme=github-dark-blue&hide_border=true" />
 </p>
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshRaj021&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ### 🤝 Connect With Me
 
