@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh Raj</h1>
+<h3 align="center">B.Tech CSE (IoT) Student | Java & DSA | Exploring Backend Development</h3>
 
-<!--
-**HarshRaj021/HarshRaj021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building strong foundations in programming, problem solving, and software development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 B.Tech student in Computer Science & Engineering (IoT)
+- ☕ Currently strengthening my **Java** fundamentals
+- 🧠 Learning **Data Structures & Algorithms**
+- 💻 Practicing problem solving on **LeetCode**
+- 🌱 Exploring **Backend Development**
+- 🚀 Building projects as I learn
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+</p>
+
+**Currently Learning**
+
+`Java` • `DSA` • `OOP` • `Backend Development`
+
+---
+
+### 🚀 Current Focus
+
+- ☕ Master Java & OOP concepts
+- 🧩 Practice DSA consistently
+- 💻 Solve LeetCode problems
+- 🛠️ Build real-world projects
+- 🌐 Learn backend development
+
+---
+
+### 📌 Projects & Learning
+
+**☕ Java Learning Journey**  
+Java fundamentals, OOP, arrays, methods, loops and problem solving.
+
+**🧩 DSA & LeetCode**  
+Practicing data structures, algorithms and coding problems.
+
+**🚀 Development Projects**  
+More projects coming as I progress through backend development.
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshRaj021&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRaj021&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HarshRaj021&theme=github-dark-blue&hide_border=true" />
+</p>
+
+### 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/harshraj-dev01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Learning. Building. Improving.</b> 🚀
+</p>
