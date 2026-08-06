@@ -1,79 +1,115 @@
-<h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">B.Tech CSE (IoT) Student | Java & DSA | Exploring Backend Development</h3>
+# Hi 👋, I'm Harsh Raj
 
-<p align="center">
-  Building strong foundations in programming, problem solving, and software development.
-</p>
+### B.Tech CSE (IoT) Student | Java Developer | DSA Learner | Backend Developer
 
----
+I'm passionate about building software and solving problems through code.
 
-### 👨‍💻 About Me
-
-- 🎓 B.Tech student in Computer Science & Engineering (IoT)
-- ☕ Currently strengthening my **Java** fundamentals
-- 🧠 Learning **Data Structures & Algorithms**
-- 💻 Practicing problem solving on **LeetCode**
-- 🌱 Exploring **Backend Development**
-- 🚀 Building projects as I learn
+After completing my Core Java journey, I'm currently focused on Data Structures & Algorithms, LeetCode, and Backend Development using Spring Boot.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Journey
+
+✅ Completed Core Java
+
+📚 Learning Data Structures & Algorithms
+
+💻 Solving LeetCode Problems
+
+🌱 Learning Spring Boot
+
+⚡ Building Backend Projects
+
+---
+
+## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,mysql,spring" />
 </p>
 
-**Currently Learning**
+---
 
-`Java` • `DSA` • `OOP` • `Backend Development`
+## 📌 Featured Repositories
+
+### ☕ Core Java Learning
+
+A complete chapter-wise Java learning repository containing
+
+- Java Fundamentals
+- OOP
+- Collections Framework
+- Exception Handling
+- Multithreading
+- Generics
+- Lambda Expressions
+- File Handling
+- Mini Projects
+- Practice Questions
+
+🔗 Repository:
+https://github.com/HarshRaj021/core-java-learning
 
 ---
 
-### 🚀 Current Focus
+### 🧩 LeetCode Java
 
-- ☕ Master Java & OOP concepts
-- 🧩 Practice DSA consistently
-- 💻 Solve LeetCode problems
-- 🛠️ Build real-world projects
-- 🌐 Learn backend development
+Collection of Java solutions for Data Structures & Algorithms problems.
 
----
+Focus:
 
-### 📌 Projects & Learning
+- Arrays
+- Strings
+- Linked Lists
+- Hashing
+- Trees
+- Dynamic Programming
+- Graphs
 
-**☕ Java Learning Journey**  
-Java fundamentals, OOP, arrays, methods, loops and problem solving.
-
-**🧩 DSA & LeetCode**  
-Practicing data structures, algorithms and coding problems.
-
-**🚀 Development Projects**  
-More projects coming as I progress through backend development.
+🔗 Repository:
+https://github.com/HarshRaj021/leetcode-java
 
 ---
 
+## 🎯 2026 Goals
 
-### 🔥 Contribution Streak
+- Solve 500+ LeetCode Problems
+- Master Data Structures & Algorithms
+- Learn Spring Boot
+- Build REST APIs
+- Build Full Stack Projects
+- Prepare for Software Engineering Interviews
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshRaj021&theme=github-dark-blue&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshRaj021&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRaj021&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-### 🤝 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/harshraj-dev01">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-  <a href="https://leetcode.com/u/harshraj0021/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
 ---
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <b>Learning. Building. Improving.</b> 🚀
+
+<img src="https://streak-stats.demolab.com?user=HarshRaj021&theme=github-dark&hide_border=true"/>
+
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+
+---
+
+> **"Consistency beats intensity. Keep building." 🚀**
