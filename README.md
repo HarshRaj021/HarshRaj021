@@ -48,7 +48,7 @@ A complete chapter-wise Java learning repository containing
 - Practice Questions
 
 🔗 Repository:
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/HarshRaj021/core-java-learning)
+(https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/HarshRaj021/core-java-learning)
 
 ---
 
