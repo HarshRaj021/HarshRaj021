@@ -1,10 +1,10 @@
 # Hi 👋, I'm Harsh Raj
 
-### B.Tech CSE (IoT) Student | Java Developer | DSA Learner | Backend Developer
+### B.Tech CSE (IoT) Student | Java Developer | DSA Learner | Aspiring Backend Developer
 
-I'm passionate about building software and solving problems through code.
+I'm a Computer Science student passionate about building software, solving problems, and continuously improving my programming skills.
 
-After completing my Core Java journey, I'm currently focused on Data Structures & Algorithms, LeetCode, and Backend Development using Spring Boot.
+I have completed Core Java and I'm currently focused on Data Structures & Algorithms, LeetCode problem solving, Git/GitHub, and learning Backend Development with Spring Boot.
 
 ---
 
@@ -14,11 +14,13 @@ After completing my Core Java journey, I'm currently focused on Data Structures 
 
 📚 Learning Data Structures & Algorithms
 
-💻 Solving LeetCode Problems
+💻 Solving LeetCode Problems in Java
+
+🔧 Practicing Git & GitHub
 
 🌱 Learning Spring Boot
 
-⚡ Building Backend Projects
+⚡ Building Java Projects
 
 ---
 
@@ -28,56 +30,88 @@ After completing my Core Java journey, I'm currently focused on Data Structures 
 <img src="https://skillicons.dev/icons?i=java,git,github,vscode,mysql,spring" />
 </p>
 
----
+### Currently Learning
 
-## 📌 Featured Repositories
-
-### ☕ Core Java Learning
-
-A complete chapter-wise Java learning repository containing
-
-- Java Fundamentals
-- OOP
-- Collections Framework
-- Exception Handling
-- Multithreading
-- Generics
-- Lambda Expressions
-- File Handling
-- Mini Projects
-- Practice Questions
-
-🔗 Repository:
-(https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/HarshRaj021/core-java-learning)
+- Data Structures & Algorithms
+- Problem Solving
+- Spring Boot
+- REST APIs
+- Backend Development
 
 ---
 
-### 🧩 LeetCode Java
+## 📌 Featured Projects
 
-Collection of Java solutions for Data Structures & Algorithms problems.
+### 🎓 Student Management System
 
-Focus:
+A console-based Java application for managing student records using Object-Oriented Programming, ArrayList, and file handling.
+
+**Tech Used:** Java, OOP, ArrayList, File Handling
+
+🔗 [View Repository](https://github.com/HarshRaj021/student-management-system)
+
+---
+
+### 💰 Expense Tracker
+
+A console-based Java application for recording and managing personal expenses using collections and file handling.
+
+**Tech Used:** Java, OOP, Collections, File Handling
+
+🔗 [View Repository](https://github.com/HarshRaj021/expense-tracker-java)
+
+---
+
+### 🧩 Java Quiz Application
+
+A console-based multiple-choice quiz application with automatic answer validation, score calculation, percentage calculation, and performance feedback.
+
+**Tech Used:** Java, OOP, ArrayList, Scanner
+
+🔗 [View Repository](https://github.com/HarshRaj021/java-quiz-application)
+
+---
+
+## ☕ Java Learning
+
+### Core Java Learning
+
+Chapter-wise Java programs, practice questions, concepts, and mini projects covering Java fundamentals and Object-Oriented Programming.
+
+🔗 [View Repository](https://github.com/HarshRaj021/core-java-learning)
+
+---
+
+## 🧠 LeetCode
+
+I'm solving Data Structures & Algorithms problems using Java and documenting my solutions.
+
+Focus areas:
 
 - Arrays
 - Strings
 - Linked Lists
 - Hashing
+- Stacks & Queues
 - Trees
-- Dynamic Programming
 - Graphs
+- Dynamic Programming
 
-🔗 Repository:
-https://github.com/HarshRaj021/leetcode-java
+🔗 [View LeetCode Repository](https://github.com/HarshRaj021/leetcode-java)
+
+🔗 [View My LeetCode Profile](https://leetcode.com/u/harshraj0021/)
 
 ---
 
 ## 🎯 2026 Goals
 
 - Solve 500+ LeetCode Problems
-- Master Data Structures & Algorithms
+- Strengthen Data Structures & Algorithms
+- Master Java
 - Learn Spring Boot
 - Build REST APIs
-- Build Full Stack Projects
+- Build Backend Projects
+- Improve Problem Solving
 - Prepare for Software Engineering Interviews
 
 ---
@@ -106,9 +140,9 @@ https://github.com/HarshRaj021/leetcode-java
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshraj-dev01/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/harshraj0021/)
 
 ---
 
